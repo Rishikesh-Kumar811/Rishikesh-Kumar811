@@ -1,29 +1,32 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi,%20I'm%20Rishikesh%20Kumar!&fontSize=50&fontAlignY=35&desc=Aspiring%20Frontend%20Developer%20(2022-2026)&descAlignY=55&descAlign=50" />
+  <img src="https://badgen.net/badge/-/Hi!%20I'm%20Rishikesh/4f46e5?scale=2.5&label=" alt="Profile Banner" />
+  
+  <br />
+  <br />
+
+  # 👋 Welcome to my GitHub!
+  **2022-2026 Batch Student & Aspiring Full-Stack Developer.** <br/>
+  Passionate about creating modern, beautiful, and highly performant web applications.
+  
+  <br />
+
+  <img src="https://badgen.net/badge/-/Next.js?icon=nextjs&color=000000&scale=1.5&label=" /> &nbsp;
+  <img src="https://badgen.net/badge/-/React?icon=react&color=61DAFB&scale=1.5&label=" /> &nbsp;
+  <img src="https://badgen.net/badge/-/TailwindCSS?icon=tailwindcss&color=06B6D4&scale=1.5&label=" /> &nbsp;
+  <img src="https://badgen.net/badge/-/JavaScript?icon=javascript&color=F7DF1E&scale=1.5&label=" /> &nbsp;
+  <img src="https://badgen.net/badge/-/HTML5?icon=html5&color=E34F26&scale=1.5&label=" /> &nbsp;
+  <img src="https://badgen.net/badge/-/CSS3?icon=css3&color=1572B6&scale=1.5&label=" />
+  
 </div>
 
-### 🚀 About Me
-- 🎓 **2022-2026 Batch Student** with a strong passion for software engineering and web development.
-- 💻 **Frontend Developer** specializing in writing clean, scalable, and responsive code.
-- 🎨 Focused on creating **lightning-fast** and **visually premium (UI/UX)** web applications using modern styling techniques.
-- 🤝 Always open for exciting collaborations, hackathons, and internship opportunities!
-
 ---
 
-### 🛠️ My Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-</p>
+### 🚀 Highlights
+- 🌟 Constantly learning and building responsive, glassmorphism-inspired UI/UX.
+- ⚡ Focusing on Web Performance, React/Next.js Ecosystem, and modern CSS.
 
----
-
-### 📫 Let's Connect!
-<p align="center">
-  <i>I'm always eager to learn new technologies and build amazing products. Feel free to explore my repositories!</i>
-  <br><br>
-  🚀 <b>Let's build something amazing together!</b>
-</p>
+<br/>
+<div align="center">
+  <i>Designed with focus and precision.</i> <br/>
+  <img src="https://badgen.net/badge/Built%20with/Love/ff69b4?scale=1.5" />
+</div>
