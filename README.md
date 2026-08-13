@@ -6,12 +6,12 @@
   <br />
 
   <div align="center">
-    <img src="https://badgen.net/badge/icon/Next.js?icon=nextjs&color=black" height="28" /> &nbsp;
-    <img src="https://badgen.net/badge/icon/React?icon=react&color=20232A" height="28" /> &nbsp;
-    <img src="https://badgen.net/badge/icon/Tailwind?icon=tailwindcss&color=38B2AC" height="28" /> &nbsp;
-    <img src="https://badgen.net/badge/icon/JavaScript?icon=javascript&color=323330" height="28" /> &nbsp;
-    <img src="https://badgen.net/badge/icon/HTML5?icon=html5&color=E34F26" height="28" /> &nbsp;
-    <img src="https://badgen.net/badge/icon/CSS3?icon=css3&color=1572B6" height="28" />
+    <img src="https://badgen.net/badge/Next.js/%20/black?icon=nextjs&labelColor=black" height="36" /> &nbsp;
+    <img src="https://badgen.net/badge/React/%20/20232A?icon=react&labelColor=20232A" height="36" /> &nbsp;
+    <img src="https://badgen.net/badge/TailwindCSS/%20/38B2AC?icon=tailwindcss&labelColor=38B2AC" height="36" /> &nbsp;
+    <img src="https://badgen.net/badge/JavaScript/%20/323330?icon=javascript&labelColor=323330" height="36" /> &nbsp;
+    <img src="https://badgen.net/badge/HTML5/%20/E34F26?icon=html5&labelColor=E34F26" height="36" /> &nbsp;
+    <img src="https://badgen.net/badge/CSS3/%20/1572B6?icon=css3&labelColor=1572B6" height="36" />
   </div>
   
 </div>
@@ -27,5 +27,5 @@
 <div align="center">
   <i>Engineered with focus and precision.</i> <br/>
   <br/>
-  <img src="https://badgen.net/badge/Built%20with/Love/ff69b4?icon=heart" height="28" />
+  <img src="https://badgen.net/badge/Built%20with/%20/ff69b4?icon=heart&labelColor=ff69b4" height="36" />
 </div>
