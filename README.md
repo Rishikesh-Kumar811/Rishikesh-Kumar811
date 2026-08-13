@@ -11,8 +11,8 @@ Building modern, beautiful, and blazing-fast web applications with a deep focus 
 <br/>
 
 <p align="center">
-  <a href="https://github.com/Rishikesh-Kumar811"><img src="https://badgen.net/badge/GITHUB/%20/181717?icon=github&labelColor=181717" alt="GitHub" height="32" /></a>&nbsp;&nbsp;
-  <a href="https://www.rishifintrack.dev/"><img src="https://badgen.net/badge/PORTFOLIO/%20/000?icon=vercel&labelColor=000" alt="Portfolio" height="32" /></a>
+  <a href="https://github.com/Rishikesh-Kumar811"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" height="28" /></a>&nbsp;
+  <a href="https://www.rishifintrack.dev/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio" height="28" /></a>
 </p>
 
 </div>
@@ -39,5 +39,5 @@ Building modern, beautiful, and blazing-fast web applications with a deep focus 
 ---
 
 <div align="center">
-  <img src="https://badgen.net/badge/Built%20with/♥%20Love/ff69b4?labelColor=ff69b4" alt="Built with Love" height="28" />
+  <img src="https://img.shields.io/badge/Built_with_♥-ff69b4?style=flat" alt="Built with Love" height="24" />
 </div>
