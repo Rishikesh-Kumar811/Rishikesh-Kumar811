@@ -1,33 +1,28 @@
 <div align="center">
 
-# Hey there! 👋 I'm Rishikesh
+<h1>Hey there! 👋 I'm Rishikesh</h1>
 
 ### Full-Stack Developer · UI/UX Enthusiast · 2022–2026 Batch
 
-<br/>
-
 Building modern, beautiful, and blazing-fast web applications with a deep focus on **UI/UX architecture**, **performance optimization**, and **clean code**.
 
-<br/>
-
 <p align="center">
-  <a href="https://github.com/Rishikesh-Kumar811"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;
-  <a href="https://www.rishifintrack.dev/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/Rishikesh-Kumar811"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 </div>
 
----
+<br/>
 
-## 🛠️ Tech Stack
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nextjs,react,redux,ts,js,tailwind,vite,html,css,git,github,vercel&perline=6" alt="Tech Stack" />
 </p>
 
----
+<br/>
 
-### ⚡ Engineering Philosophy
+<h2 align="center">⚡ Engineering Philosophy</h2>
 
 | | |
 |---|---|
@@ -36,9 +31,9 @@ Building modern, beautiful, and blazing-fast web applications with a deep focus 
 | 🏗️ **Clean Architecture** | Modular components, Context API / Redux patterns, zero prop-drilling, strict TypeScript |
 | 🤖 **AI Integration** | Experience with Google Gemini AI, Server Actions, and intelligent automation workflows |
 
-<div align="center">
-
 <br/>
+
+<div align="center">
 
 <h3>Built with ❤️ by <a href="https://github.com/Rishikesh-Kumar811">Rishikesh</a></h3>
 
