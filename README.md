@@ -36,8 +36,10 @@ Building modern, beautiful, and blazing-fast web applications with a deep focus 
 | 🏗️ **Clean Architecture** | Modular components, Context API / Redux patterns, zero prop-drilling, strict TypeScript |
 | 🤖 **AI Integration** | Experience with Google Gemini AI, Server Actions, and intelligent automation workflows |
 
----
-
 <div align="center">
-  <img src="https://badgen.net/badge/Built%20with%20%E2%99%A5//ff69b4?label&labelColor=ff69b4" alt="Built with Love" height="40" />
+
+<br/>
+
+<sub>If you found this useful, consider giving it a ⭐</sub>
+
 </div>
