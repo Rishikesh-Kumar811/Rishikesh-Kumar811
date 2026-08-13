@@ -40,6 +40,6 @@ Building modern, beautiful, and blazing-fast web applications with a deep focus 
 
 <br/>
 
-<sub>If you found this useful, consider giving it a ⭐</sub>
+<h3>Built with ❤️ by <a href="https://github.com/Rishikesh-Kumar811">Rishikesh</a></h3>
 
 </div>
