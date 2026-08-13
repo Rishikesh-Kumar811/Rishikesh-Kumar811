@@ -6,12 +6,12 @@
   <br />
 
   <div align="center">
-    <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white" /> &nbsp;
-    <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" /> &nbsp;
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" /> &nbsp;
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" /> &nbsp;
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" /> &nbsp;
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+    <img src="https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js&logoColor=white" height="30" /> &nbsp;
+    <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" height="30" /> &nbsp;
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" height="30" /> &nbsp;
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" height="30" /> &nbsp;
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="30" /> &nbsp;
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="30" />
   </div>
   
 </div>
@@ -26,5 +26,6 @@
 <br/>
 <div align="center">
   <i>Engineered with focus and precision.</i> <br/>
-  <img src="https://img.shields.io/badge/Built_with-Love-ff69b4?style=flat" />
+  <br/>
+  <img src="https://img.shields.io/badge/Built_with-Love-ff69b4?style=flat" height="32" />
 </div>
