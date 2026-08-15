@@ -42,7 +42,6 @@
 
 | Project | Domain / Type | Tech Stack | Live Demo | Repository |
 | :--- | :--- | :--- | :--- | :--- |
-| **SPOTT** | 🎟️ Full-Stack AI Event Platform | Next.js 15, Convex, Clerk, Gemini AI, Tailwind | — | [`SPOTT`](https://github.com/Rishikesh-Kumar811/SPOTT) |
 | **FinTrack Pro** | 💎 Next-Gen Personal Finance | Vanilla JS (ES2026), Modern CSS, `llms.txt` | [Live App](https://fintrack-rishi.vercel.app/) | [`FinTrack-Pro`](https://github.com/Rishikesh-Kumar811/FinTrack-Pro) |
 | **Interactive Task Manager** | ⚡ DOM Exploration Suite | Vanilla JS (ES2026), Modern CSS, Dialog API | [Live App](https://interactive-taskmanager.vercel.app/) | [`interactive-taskmanager`](https://github.com/Rishikesh-Kumar811/interactive-taskmanager) |
 | **Zenith Dashboard** | ✨ Glassmorphism Productivity | Vanilla JS, CSS Glassmorphism, Pomodoro | [Live App](https://zenith-dashboard-olive.vercel.app/) | [`zenith-dashboard`](https://github.com/Rishikesh-Kumar811/zenith-dashboard) |
