@@ -26,11 +26,11 @@
 
 | Engineering Layer | Core Technologies & Standards | Specialization & Application |
 | :--- | :--- | :--- |
-| **Frontend Frameworks** | **Next.js 16 (App Router • Actively Learning)** • **React 19** • **Vite 8** | Actively learning & mastering Next.js full-stack architecture (App Router, Server Actions, Dynamic Streaming SSR), alongside React 19 Server Components, Client Island Architecture, and Zero-Bundle DOM Hydration. |
-| **State & Store Management** | **Redux Toolkit** • **Convex Reactive Queries** • Context API | Predictable state machines, immutable state updates via Immer, real-time WebSocket database subscriptions, and normalized client caches. |
-| **Design & UI Systems** | **Modern CSS (2026 Spec)** • **Tailwind CSS v4** • **Radix / shadcn/ui** | Fluid `clamp()` typography, GPU-accelerated micro-animations, glassmorphism design systems, and responsive layout architectures. |
-| **Backend & Cloud Services** | **Convex DB** • **Clerk Auth** • **Google Gemini AI** • **Node.js** | Serverless backend mutations, real-time WebSocket syncing, enterprise JWT authentication, and multimodal Generative AI integration. |
-| **Tooling & Workflows** | **Vercel** • **VS Code** • **Git** • **GitHub Actions** • **Oxlint** | Edge deployments, automated CI/CD workflows, automated code linting, and 100/100 Lighthouse performance audits. |
+| **Frontend Frameworks** | • **Next.js 16 (App Router • Actively Learning)**<br/>• **React 19**<br/>• **Vite 8** | Actively learning & mastering Next.js full-stack architecture (App Router, Server Actions, Dynamic Streaming SSR), alongside React 19 Server Components, Client Island Architecture, and Zero-Bundle DOM Hydration. |
+| **State & Store Management** | • **Redux Toolkit**<br/>• **Convex Reactive Queries**<br/>• Context API | Predictable state machines, immutable state updates via Immer, real-time WebSocket database subscriptions, and normalized client caches. |
+| **Design & UI Systems** | • **Modern CSS (2026 Spec)**<br/>• **Tailwind CSS v4**<br/>• **Radix / shadcn/ui** | Fluid `clamp()` typography, GPU-accelerated micro-animations, glassmorphism design systems, and responsive layout architectures. |
+| **Backend & Cloud Services** | • **Convex DB**<br/>• **Clerk Auth**<br/>• **Google Gemini AI**<br/>• **Node.js** | Serverless backend mutations, real-time WebSocket syncing, enterprise JWT authentication, and multimodal Generative AI integration. |
+| **Tooling & Workflows** | • **Vercel**<br/>• **VS Code**<br/>• **Git**<br/>• **GitHub Actions**<br/>• **Oxlint** | Edge deployments, automated CI/CD workflows, automated code linting, and 100/100 Lighthouse performance audits. |
 
 <br/>
 
