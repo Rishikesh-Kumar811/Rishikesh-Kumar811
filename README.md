@@ -26,11 +26,11 @@
 
 | Engineering Layer | Core Technologies & Standards | Specialization & Application |
 | :--- | :--- | :--- |
-| **Frontend Frameworks** | • **Next.js 16 (App Router • Actively Learning)**<br/>• **React 19**<br/>• **Vite 8** | Actively learning & mastering Next.js full-stack architecture (App Router, Server Actions, Dynamic Streaming SSR), alongside React 19 Server Components, Client Island Architecture, and Zero-Bundle DOM Hydration. |
-| **State & Store Management** | • **Redux Toolkit**<br/>• **Convex Reactive Queries**<br/>• Context API | Predictable state machines, immutable state updates via Immer, real-time WebSocket database subscriptions, and normalized client caches. |
-| **Design & UI Systems** | • **Modern CSS (2026 Spec)**<br/>• **Tailwind CSS v4**<br/>• **Radix / shadcn/ui** | Fluid `clamp()` typography, GPU-accelerated micro-animations, glassmorphism design systems, and responsive layout architectures. |
-| **Backend & Cloud Services** | • **Convex DB**<br/>• **Clerk Auth**<br/>• **Google Gemini AI**<br/>• **Node.js** | Serverless backend mutations, real-time WebSocket syncing, enterprise JWT authentication, and multimodal Generative AI integration. |
-| **Tooling & Workflows** | • **Vercel**<br/>• **VS Code**<br/>• **Git**<br/>• **GitHub Actions**<br/>• **Oxlint** | Edge deployments, automated CI/CD workflows, automated code linting, and 100/100 Lighthouse performance audits. |
+| **Frontend Frameworks** | <ul><li>**Next.js 16 (App Router • Actively Learning)**</li><li>**React 19**</li><li>**Vite 8**</li></ul> | Actively learning & mastering Next.js full-stack architecture (App Router, Server Actions, Dynamic Streaming SSR), alongside React 19 Server Components, Client Island Architecture, and Zero-Bundle DOM Hydration. |
+| **State & Store Management** | <ul><li>**Redux Toolkit**</li><li>**Convex Reactive Queries**</li><li>Context API</li></ul> | Predictable state machines, immutable state updates via Immer, real-time WebSocket database subscriptions, and normalized client caches. |
+| **Design & UI Systems** | <ul><li>**Modern CSS (2026 Spec)**</li><li>**Tailwind CSS v4**</li><li>**Radix / shadcn/ui**</li></ul> | Fluid `clamp()` typography, GPU-accelerated micro-animations, glassmorphism design systems, and responsive layout architectures. |
+| **Backend & Cloud Services** | <ul><li>**Convex DB**</li><li>**Clerk Auth**</li><li>**Google Gemini AI**</li><li>**Node.js**</li></ul> | Serverless backend mutations, real-time WebSocket syncing, enterprise JWT authentication, and multimodal Generative AI integration. |
+| **Tooling & Workflows** | <ul><li>**Vercel**</li><li>**VS Code**</li><li>**Git**</li><li>**GitHub Actions**</li><li>**Oxlint**</li></ul> | Edge deployments, automated CI/CD workflows, automated code linting, and 100/100 Lighthouse performance audits. |
 
 <br/>
 
@@ -42,16 +42,16 @@
 
 | Project | Domain / Type | Tech Stack | Live Demo | Repository |
 | :--- | :--- | :--- | :--- | :--- |
-| **FinTrack Pro** | 💎 Next-Gen Personal Finance | Vanilla JS (ES2026), Modern CSS, `llms.txt` | [Live App](https://fintrack-rishi.vercel.app/) | [`FinTrack-Pro`](https://github.com/Rishikesh-Kumar811/FinTrack-Pro) |
-| **Interactive Task Manager** | ⚡ DOM Exploration Suite | Vanilla JS (ES2026), Modern CSS, Dialog API | [Live App](https://interactive-taskmanager.vercel.app/) | [`interactive-taskmanager`](https://github.com/Rishikesh-Kumar811/interactive-taskmanager) |
-| **Zenith Dashboard** | ✨ Glassmorphism Productivity | Vanilla JS, CSS Glassmorphism, Pomodoro | [Live App](https://zenith-dashboard-olive.vercel.app/) | [`zenith-dashboard`](https://github.com/Rishikesh-Kumar811/zenith-dashboard) |
-| **SkyMart** | 🛒 Modern E-Commerce Platform | React 19, Tailwind v4, Vite, Lucide | [Live App](https://sky-mart-tau-black.vercel.app/) | [`SkyMart`](https://github.com/Rishikesh-Kumar811/SkyMart) |
-| **FinTrack Mini** | ⚡ React + Redux Financial Tool | React 19, Redux Toolkit, Vite, Tailwind | [Live App](https://www.rishifintrack.dev/) | [`mini-hackathon-1`](https://github.com/Rishikesh-Kumar811/mini-hackathon-1) |
-| **Digital Hunters** | 🎮 Cyberpunk Studio Landing | Semantic HTML5, CSS Popover API, SVGs | [Live App](https://a3-digital-hunters.vercel.app/) | [`A3-Digital-Hunters`](https://github.com/Rishikesh-Kumar811/A3-Digital-Hunters) |
-| **Botanical Studio** | 🌸 Editorial Florist E-Commerce | HTML5, CSS Grid Mosaic, Custom Typography | [Live App](https://assignment-4-tau-sepia.vercel.app/) | [`A4-Assignment-Four`](https://github.com/Rishikesh-Kumar811/A4-Assignment-Four) |
-| **Apex Creative Agency** | 🏢 Digital Studio Portfolio | HTML5, 94KB CSS Engine, Partner Marquee | [Live App](https://assignment-5-three-sage.vercel.app/) | [`A5-Assignment-Five`](https://github.com/Rishikesh-Kumar811/A5-Assignment-Five) |
-| **CSS Position Masterclass** | 📐 Layout Architecture Lab | Vanilla HTML5, CSS Stacking Contexts | [Live App](https://assignment-1-lac-eight.vercel.app/) | [`Assignment-1-CSS-Position`](https://github.com/Rishikesh-Kumar811/Assignment-1-CSS-Position) |
-| **Web Layout Foundations** | ⚡ Multi-Grid Visual Systems | Vanilla HTML5, CSS Flexbox / Multi-Grid | [Live App](https://assignment-2-one-lime.vercel.app/) | [`Assignment-2`](https://github.com/Rishikesh-Kumar811/Assignment-2) |
+| **FinTrack Pro** | 💎 Next-Gen Personal Finance | Vanilla JS (ES2026), Modern CSS, `llms.txt` | <a href="https://fintrack-rishi.vercel.app/" target="_blank">Live App</a> | <a href="https://github.com/Rishikesh-Kumar811/FinTrack-Pro" target="_blank"><code>FinTrack-Pro</code></a> |
+| **Interactive Task Manager** | ⚡ DOM Exploration Suite | Vanilla JS (ES2026), Modern CSS, Dialog API | <a href="https://interactive-taskmanager.vercel.app/" target="_blank">Live App</a> | <a href="https://github.com/Rishikesh-Kumar811/interactive-taskmanager" target="_blank"><code>interactive-taskmanager</code></a> |
+| **Zenith Dashboard** | ✨ Glassmorphism Productivity | Vanilla JS, CSS Glassmorphism, Pomodoro | <a href="https://zenith-dashboard-olive.vercel.app/" target="_blank">Live App</a> | <a href="https://github.com/Rishikesh-Kumar811/zenith-dashboard" target="_blank"><code>zenith-dashboard</code></a> |
+| **SkyMart** | 🛒 Modern E-Commerce Platform | React 19, Tailwind v4, Vite, Lucide | <a href="https://sky-mart-tau-black.vercel.app/" target="_blank">Live App</a> | <a href="https://github.com/Rishikesh-Kumar811/SkyMart" target="_blank"><code>SkyMart</code></a> |
+| **FinTrack Mini** | ⚡ React + Redux Financial Tool | React 19, Redux Toolkit, Vite, Tailwind | <a href="https://www.rishifintrack.dev/" target="_blank">Live App</a> | <a href="https://github.com/Rishikesh-Kumar811/mini-hackathon-1" target="_blank"><code>mini-hackathon-1</code></a> |
+| **Digital Hunters** | 🎮 Cyberpunk Studio Landing | Semantic HTML5, CSS Popover API, SVGs | <a href="https://a3-digital-hunters.vercel.app/" target="_blank">Live App</a> | <a href="https://github.com/Rishikesh-Kumar811/A3-Digital-Hunters" target="_blank"><code>A3-Digital-Hunters</code></a> |
+| **Botanical Studio** | 🌸 Editorial Florist E-Commerce | HTML5, CSS Grid Mosaic, Custom Typography | <a href="https://assignment-4-tau-sepia.vercel.app/" target="_blank">Live App</a> | <a href="https://github.com/Rishikesh-Kumar811/A4-Assignment-Four" target="_blank"><code>A4-Assignment-Four</code></a> |
+| **Apex Creative Agency** | 🏢 Digital Studio Portfolio | HTML5, 94KB CSS Engine, Partner Marquee | <a href="https://assignment-5-three-sage.vercel.app/" target="_blank">Live App</a> | <a href="https://github.com/Rishikesh-Kumar811/A5-Assignment-Five" target="_blank"><code>A5-Assignment-Five</code></a> |
+| **CSS Position Masterclass** | 📐 Layout Architecture Lab | Vanilla HTML5, CSS Stacking Contexts | <a href="https://assignment-1-lac-eight.vercel.app/" target="_blank">Live App</a> | <a href="https://github.com/Rishikesh-Kumar811/Assignment-1-CSS-Position" target="_blank"><code>Assignment-1-CSS-Position</code></a> |
+| **Web Layout Foundations** | ⚡ Multi-Grid Visual Systems | Vanilla HTML5, CSS Flexbox / Multi-Grid | <a href="https://assignment-2-one-lime.vercel.app/" target="_blank">Live App</a> | <a href="https://github.com/Rishikesh-Kumar811/Assignment-2" target="_blank"><code>Assignment-2</code></a> |
 
 <br/>
 
@@ -73,9 +73,9 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Rishikesh--Kumar811-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rishikesh-Kumar811)
+<a href="https://github.com/Rishikesh-Kumar811" target="_blank"><img src="https://img.shields.io/badge/GitHub-Rishikesh--Kumar811-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-[![Vercel](https://img.shields.io/badge/Vercel-Deployments-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
+<a href="https://vercel.com/" target="_blank"><img src="https://img.shields.io/badge/Vercel-Deployments-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /></a>
 
 <br/><br/>
 
