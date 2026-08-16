@@ -39,8 +39,8 @@
 
 <br/>
 
-| Project | Domain / Type | Tech Stack | Live Demo | Repository |
-| :--- | :--- | :---: | :---: | :---: |
+| Project | Domain / Type | Tech Stack | Live&nbsp;Demo | Repository |
+| :--- | :---: | :---: | :---: | :---: |
 | **FinTrack Pro** | 💎 Next-Gen<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Personal Finance | <img src="https://skillicons.dev/icons?i=js,html,css" height="24" alt="JS, HTML, CSS" /> | <a href="https://fintrack-rishi.vercel.app/" target="_blank">Live App</a> | <a href="https://github.com/Rishikesh-Kumar811/FinTrack-Pro" target="_blank"><code>FinTrack-Pro</code></a> |
 | **Interactive Task Manager** | ⚡ DOM Suite<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exploration | <img src="https://skillicons.dev/icons?i=js,html,css" height="24" alt="JS, HTML, CSS" /> | <a href="https://interactive-taskmanager.vercel.app/" target="_blank">Live App</a> | <a href="https://github.com/Rishikesh-Kumar811/interactive-taskmanager" target="_blank"><code>interactive-taskmanager</code></a> |
 | **Zenith Dashboard** | ✨ Glassmorphism<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Productivity | <img src="https://skillicons.dev/icons?i=js,html,css" height="24" alt="JS, HTML, CSS" /> | <a href="https://zenith-dashboard-olive.vercel.app/" target="_blank">Live App</a> | <a href="https://github.com/Rishikesh-Kumar811/zenith-dashboard" target="_blank"><code>zenith-dashboard</code></a> |
