@@ -39,7 +39,7 @@
 
 <br/>
 
-| Project | &nbsp;&nbsp;&nbsp;Domain / Type | Tech Stack | Live&nbsp;Demo | Repository |
+| Project | &nbsp;Domain / Type | Tech Stack | Live&nbsp;Demo | Repository |
 | :--- | :--- | :---: | :---: | :---: |
 | **FinTrack Pro** | 💎 Personal<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Finance | <img src="https://skillicons.dev/icons?i=js,html,css" height="24" alt="JS, HTML, CSS" /> | <a href="https://fintrack-rishi.vercel.app/" target="_blank">Live App</a> | <a href="https://github.com/Rishikesh-Kumar811/FinTrack-Pro" target="_blank"><code>FinTrack-Pro</code></a> |
 | **Interactive Task Manager** | ⚡ DOM Suite<br/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Exploration | <img src="https://skillicons.dev/icons?i=js,html,css" height="24" alt="JS, HTML, CSS" /> | <a href="https://interactive-taskmanager.vercel.app/" target="_blank">Live App</a> | <a href="https://github.com/Rishikesh-Kumar811/interactive-taskmanager" target="_blank"><code>interactive-taskmanager</code></a> |
